@@ -40,7 +40,6 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-clean-css": "^3.0.4",
     "gulp-css-wrap": "^0.1.2",
@@ -52,6 +51,7 @@
   },
   "devDependencies": {
     "element-theme-chalk": "2.4.11",
+    "gulp": "^3.9.1",
     "xo": "^0.17.0"
   }
 }
