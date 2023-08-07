@@ -2,7 +2,7 @@ var path = require('path')
 var gulp = require('gulp')
 var cleanCSS = require('gulp-clean-css');
 var cssWrap = require('gulp-css-wrap');
-var themeName = 'blue'
+var themeName = 'green2'
 var customThemeName = `${themeName}-theme`
 var customThemeClassName = `.${customThemeName}`
 
